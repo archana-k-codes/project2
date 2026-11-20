@@ -1,4 +1,4 @@
 # New Project
 
 This project was create from local system.
-creatred by Archana Kumawat
+creatred by Archana Kumawat.
